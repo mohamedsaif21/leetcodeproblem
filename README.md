@@ -73,8 +73,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mohamedsaif21/leetcodeproblem/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/mohamedsaif21/leetcodeproblem/tree/main/1603-design-parking-system/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mohamedsaif21/leetcodeproblem/tree/main/0169-majority-element/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/mohamedsaif21/leetcodeproblem/tree/main/1603-design-parking-system/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/mohamedsaif21/leetcodeproblem/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
